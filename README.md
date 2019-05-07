@@ -6,4 +6,7 @@
 
 - Set remote url : git remote set-url origin "SSH address"
 
-- REmove remote origin : git remote remove origin
+- Remove remote origin : git remote remove origin
+
+- Git refusing to merge unrelated histories on rebase : git pull origin branchname --allow-unrelated-histories
+
