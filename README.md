@@ -10,3 +10,6 @@
 
 - Git refusing to merge unrelated histories on rebase : git pull origin branchname --allow-unrelated-histories
 
+Generating SSH key on Windows
+- open git bash, create folder name .ssh, then run this : ssh-keygen.exe
+
