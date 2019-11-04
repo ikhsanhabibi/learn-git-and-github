@@ -1,6 +1,6 @@
 # learn-git-and-github
 
-- Git keeps asking me for my ssh key passphrase => You have to add your private key to it: ssh-add -K (On terminal : /usr/bin/ssh-add -K)
+- Git keeps asking me for my ssh key passphrase => You have to add your private key to it: ssh-add -K (On terminal : /usr/bin/ssh-add -K) : https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra
 
 - List the remote origin : git remote -v 
 
