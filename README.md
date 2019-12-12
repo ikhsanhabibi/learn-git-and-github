@@ -17,3 +17,9 @@ Generating SSH key on Windows
 
 Branching
 - https://stackoverflow.com/questions/42054571/making-latest-commit-master-git
+
+
+GitHub Pages:
+- open package.json
+- add this after private: "homepage": "https://ikhsanhabibi.github.io/robot-cards-react"
+. add scripts : "predeploy": "yarn build", "deploy": "gh-pages -d build"
