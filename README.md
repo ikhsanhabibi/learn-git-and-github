@@ -23,3 +23,7 @@ GitHub Pages:
 - open package.json
 - add this after private: "homepage": "https://ikhsanhabibi.github.io/robot-cards-react"
 . add scripts : "predeploy": "yarn build", "deploy": "gh-pages -d build"
+
+
+.gitignore
+- how to make Git ignore .idea files created by Rubymine : git rm -r --cached .idea
