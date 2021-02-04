@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+# Quasar App (my-indonesia)
+
+A Quasar Framework app
+
+## Install the dependencies
+```bash
+yarn
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+=======
 # learn-git-and-github
 
 - Git keeps asking me for my ssh key passphrase => You have to add your private key to it: ssh-add -K (On terminal : /usr/bin/ssh-add -K) : https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra
@@ -25,3 +49,4 @@ GitHub Pages:
 
 .gitignore
 - how to make Git ignore .idea files created by Rubymine : git rm -r --cached .idea
+>>>>>>> f7ffb3c14988d2a4d69be0e57481cd23a82a9f12
