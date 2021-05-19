@@ -33,3 +33,5 @@ Reset branch to the last commit
 
 Git bash on Pycharm
 - Change setting in the terminal: "C:\Program Files\Git\bin\sh.exe" --login -i
+
+- Remove all git history: https://www.willandskill.se/en/deleting-your-git-commit-history-without-removing-repo-on-github-bitbucket/
