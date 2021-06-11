@@ -12,6 +12,12 @@
 
 - Git refusing to merge unrelated histories on rebase : git pull origin branchname --allow-unrelated-histories
 
+
+# Remote problems (solution: use HTTPS)
+- https://stackoverflow.com/questions/35558649/github-error-ssh-connect-to-host-github-com-port-22-operation-timed-out-fat
+- git remote add origin-https https://github.com/alicht/tweetanuber.git
+- git push -u origin-https master
+
 Generating SSH key on Windows
 - open git bash, create folder name .ssh, then run this : ssh-keygen.exe
 
