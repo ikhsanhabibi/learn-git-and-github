@@ -21,6 +21,8 @@
 Generating SSH key on Windows
 - open git bash, create folder name .ssh, then run this : ssh-keygen.exe
 
+- Multiple SSH keys for different GitHub accounts: https://www.cluemediator.com/multiple-ssh-keys-for-different-github-accounts
+
 Branching
 - https://stackoverflow.com/questions/42054571/making-latest-commit-master-git
 
