@@ -18,9 +18,12 @@
 - git remote add origin-https https://github.com/alicht/tweetanuber.git
 - git push -u origin-https master
 
-Generating SSH key on Windows
+# Generating SSH key on Windows
 - open git bash, create folder name .ssh, then run this : ssh-keygen.exe
 
+# Generate SSH key on Mac
+- https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
+- ssh-keygen -t rsa -C “your-email-address”
 - Multiple SSH keys for different GitHub accounts: https://www.cluemediator.com/multiple-ssh-keys-for-different-github-accounts
 
 Branching
