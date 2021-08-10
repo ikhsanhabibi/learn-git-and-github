@@ -18,6 +18,12 @@
 - git remote add origin-https https://github.com/alicht/tweetanuber.git
 - git push -u origin-https master
 
+# Configure git usename
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+```
+
 # Generating SSH key on Windows
 - open git bash, create folder name .ssh, then run this : ssh-keygen.exe
 
