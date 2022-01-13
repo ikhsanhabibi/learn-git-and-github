@@ -26,6 +26,7 @@ git config --global user.email "youremail@yourdomain.com"
 
 # Generating SSH key on Windows
 - open git bash, create folder name .ssh, then run this : ssh-keygen.exe
+- On Source Tree: Tools - Options - select SSH Client - select SSH Key
 
 # Generate SSH key on Mac
 - https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
