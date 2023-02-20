@@ -36,6 +36,17 @@ git config --global user.email "youremail@yourdomain.com"
 Branching
 - https://stackoverflow.com/questions/42054571/making-latest-commit-master-git
 
+Git is refusing to merge unrelated histories. What are 'unrelated histories'?
+```
+git pull origin master --allow-unrelated-histories
+```
+
+Remove branch local & remote
+```
+git branch -d {local_branch}
+git push origin -d {remote_branch}
+```
+
 GitHub Pages:
 - open package.json
 - add this after private=> "homepage": "https://ikhsanhabibi.github.io/robot-cards-react"
